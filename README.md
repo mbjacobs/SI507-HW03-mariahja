@@ -7,6 +7,6 @@ Git: mbjacobs
 Section 003
 
 Lucy Jiang
-Uniqname: lucyjiang
+Uniqname: lqjiang
 Git: jianglucyy
 Section 003
